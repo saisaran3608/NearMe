@@ -39,7 +39,7 @@ map.html
 <font color="blue"><b>KRISHNAGIRI</b></font>
 </h1>
 <h3 align="center">
-<font color="orange"><b>K.ASHWINNEHREJ (25015594)</b></font>
+<font color="orange"><b>G SRI SAI SARAN(25016064)</b></font>
 </h3>
 <center>
 <img src="map.png" usemap="#image-map">
